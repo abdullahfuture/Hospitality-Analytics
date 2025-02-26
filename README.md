@@ -1,5 +1,5 @@
 # 🏨 Smart Hospitality Analytics  
-
+![hospitality dashboard](hosptality-dashboard.png) 
 Welcome to the **Hospitality Insights & Optimization** project!  
 Hotels need **smart data strategies** to maximize revenue and enhance customer experiences. Let’s make that happen! 📊✨  
 
